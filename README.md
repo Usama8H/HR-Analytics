@@ -13,7 +13,7 @@ HR Data Analytics portfolio project that deals with HR KPIs like Performance tra
 
 ##### 1. Entity Relationship Diagram
 
-![](https://github.com/Usama8H/HR-Analytics/blob/main/Visualisations/3.%20Performance%20Tracker.png)
+![](https://github.com/Usama8H/HR-Analytics/blob/main/Visualisations/ER%20Diagram.jpg)
 
 
 
