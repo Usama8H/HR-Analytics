@@ -13,33 +13,31 @@ HR Data Analytics portfolio project that deals with HR KPIs like Performance tra
 
 ##### 1. Entity Relationship Diagram
 
-![](https://github.com/Usama8H/HR-Analytics/blob/main/Visualisations/1.%20Overview.png)
+![](https://github.com/Usama8H/HR-Analytics/blob/main/Visualisations/3.%20Performance%20Tracker.png)
 
 
 
 ##### 2. HR Analytics Overview
 
-![](https://github.com/Pandey-Adarsh/HR-Analytics-PowerBI/blob/main/Visualization%20(Screenshots)/1.%20Overview.png)
+![](https://github.com/Usama8H/HR-Analytics/blob/main/Visualisations/1.%20Overview.png)
 
 
 
 ##### 3.  Demographics of the Company
 
-
-
-![](https://github.com/Pandey-Adarsh/HR-Analytics-PowerBI/blob/main/Visualization%20(Screenshots)/2.%20Demographics.png)
+![](https://github.com/Usama8H/HR-Analytics/blob/main/Visualisations/2.%20Demographics.png)
 
 
 
 ##### 4. Perfomance Tracker
 
-![](https://github.com/Pandey-Adarsh/HR-Analytics-PowerBI/blob/main/Visualization%20(Screenshots)/3.%20Performance%20Tracker.png)
+![](https://github.com/Usama8H/HR-Analytics/blob/main/Visualisations/3.%20Performance%20Tracker.png)
 
 
 
 ##### 5. Attrition
 
-![](https://github.com/Pandey-Adarsh/HR-Analytics-PowerBI/blob/main/Visualization%20(Screenshots)/4.%20HR%20Analytics%20Project%20Attrition.png)
+![](https://github.com/Usama8H/HR-Analytics/blob/main/Visualisations/4.%20HR%20Analytics%20Project%20Attrition.png)
 
 
 ###### Note: The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it as the whole thing is very dynamic.
