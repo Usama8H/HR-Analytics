@@ -13,7 +13,7 @@ HR Data Analytics portfolio project that deals with HR KPIs like Performance tra
 
 ##### 1. Entity Relationship Diagram
 
-![](https://github.com/Pandey-Adarsh/HR-Analytics-PowerBI/blob/main/Visualization%20(Screenshots)/ER%20Diagram.jpg)
+![](https://github.com/Usama8H/HR-Analytics/blob/main/Visualisations/1.%20Overview.png)
 
 
 
